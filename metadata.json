@@ -1,0 +1,6 @@
+{
+  "name": "BetterTalk",
+  "description": "A personalized growth app to improve speech, communication, and confidence. Features real-time grammar corrections, call speech-pitch simulations, personalized exercises, and daily performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
